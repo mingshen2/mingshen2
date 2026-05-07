@@ -25,8 +25,8 @@ An ambitious girl who loves to cook fries, day dream at nights and sometime code
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
 
-<p align="center"> 
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
+<p align="center">
+  <img src="yun.png" width="1000" height="auto" />
 </p>
 
 
